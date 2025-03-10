@@ -1,17 +1,17 @@
-# Contador de Números
+# :computer:  Contador de Números
 
 Este é um programa simples em Java que solicita ao usuário dois valores inteiros e verifica se o primeiro valor é menor que o segundo. 
 Caso seja, o programa encerra; caso contrário, ele solicita que os valores sejam digitados novamente.
 
-Funcionalidades
+:information_source: Link para o repositório do [desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
+
+ Funcionalidades
 
 - Solicita ao usuário dois valores inteiros.
 
 - Verifica se o primeiro valor é menor que o segundo.
 
 - Repete a solicitação até que os valores sejam válidos.
-
-- Trata entradas inválidas (como strings ou números decimais).
 
 ## Pré-requisitos
 
